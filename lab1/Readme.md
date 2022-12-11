@@ -1,23 +1,23 @@
 ## Схема
 
-![](/img/sheme.png)
+![](img/sheme.png)
 
 ## Коммутатор распределения - корень
 
-![](/img/r3_tree.png)
+![](img/r3_tree.png)
 
 ## Линк между коммутаторами доступа заблокирован
 
-![](/img/r2_tree.png)
+![](img/r2_tree.png)
 
 ## Пинги
 
-![](/img/ping1.png)
-![](/img/ping2.png)
+![](img/ping1.png)
+![](img/ping2.png)
 
 ## Интерфейс коммутатора R1
 
-![](/img/r3_interface.png)
+![](img/r3_interface.png)
 
 ## Конфиги и лаба
 
