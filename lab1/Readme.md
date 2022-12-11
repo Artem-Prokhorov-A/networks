@@ -17,7 +17,7 @@
 
 ## Интерфейс коммутатора R1
 
-![](img/r3_interface.png)
+![](img/r1_interface.png)
 
 ## Конфиги и лаба
 
