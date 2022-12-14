@@ -1,6 +1,6 @@
 ## Схема
 
-![](img/sсheme.jpg)
+![](https://github.com/Artem-Prokhorov-A/networks/blob/main/lab3/img/scheme.jpg)
 
 ## VPC + ping
 
@@ -10,7 +10,7 @@
 
 ## dhcp pool
 
-![](img/dhcp pool.jpg)
+![](https://github.com/Artem-Prokhorov-A/networks/blob/main/lab3/img/dhcp%20pool.jpg)
 
 ## ip убраны из пула
 
