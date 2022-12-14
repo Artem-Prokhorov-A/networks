@@ -28,7 +28,7 @@ def main(argv):
             r = m
         else:
             l = m
-    print('MTU:', l)
+    print('MTU:', l + 28) # add header size
 
 if __name__ == '__main__':
     main(sys.argv)
